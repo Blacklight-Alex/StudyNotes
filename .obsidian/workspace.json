@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e18067ceabc7ce2c",
+        "id": "c583a43a8ed01b47",
         "type": "tabs",
         "children": [
           {
-            "id": "39e48b9cf0dc0b2f",
+            "id": "e64ea88da43c21ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +137,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39e48b9cf0dc0b2f",
+  "active": "e1fc2d26723eca82",
   "lastOpenFiles": [
+    "100-Work/110-FuSa/111-Regulation/001-ISO26262-2018/ISO-26262-1-2018（en）.pdf",
+    "README.md",
     "2023-02-16.md",
     "未命名.canvas"
   ]
