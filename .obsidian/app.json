@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./attachments",
   "showLineNumber": true,
   "newFileLocation": "current",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "livePreview": true
 }

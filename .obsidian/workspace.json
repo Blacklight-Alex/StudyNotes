@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e64ea88da43c21ef",
+            "id": "4ba469eb33035df4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf"
+              }
             }
           }
         ]
@@ -81,7 +83,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,29 +122,43 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1fc2d26723eca82",
+  "active": "4b2c4a7769cf3e31",
   "lastOpenFiles": [
-    "100-Work/110-FuSa/111-Regulation/001-ISO26262-2018/ISO-26262-1-2018（en）.pdf",
     "README.md",
+    "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf",
+    "100-Work/120-SOTIF/121-Regulation/ISO-PAS 21448-2019.pdf",
+    "100-Work/110-FuSa/112-Audit&Assessment/Audit&Assessmen Template.md",
+    "100-Work/110-FuSa/111-Regulation/003-C-NCAP-2021/C-NCAP管理规则.md",
+    "100-Work/110-FuSa/112-Audit&Assessment/08E98C50",
+    "100-Work/110-FuSa/112-Audit&Assessment/~$Audit&Assessment Template.xlsx",
+    "100-Work/110-FuSa/112-Audit&Assessment/Audit&Assessment Template.xlsx",
+    "100-Work/110-FuSa/112-Audit&Assessment/~建 Microsoft Excel 工作表.tmp",
+    "100-Work/110-FuSa/112-Audit&Assessment/新建 Microsoft Excel 工作表.xlsx",
+    "100-Work/110-FuSa/112-Audit&Assessment",
+    "100-Work/110-FuSa/111-Regulation/003-C-NCAP-2021/C-NCAP管理规则（2021版 修订版）.pdf",
+    "100-Work/120-SOTIF/121-Regulation/ISO-PAS 21448-2019.pdf.crdownload",
     "2023-02-16.md",
     "未命名.canvas"
   ]
