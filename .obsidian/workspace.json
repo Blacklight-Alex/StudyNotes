@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6c2e25fdd1e27a",
+        "id": "b6992689724ac6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "022cda34662594f7",
+            "id": "e09c422819243bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/ID Template.md",
+                "file": "100-Work/110-FuSa&SOTIF/114-Audit&Assessment/Audit Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fbe70f56ae5ed871",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/ID Template.md",
+                "file": "100-Work/110-FuSa&SOTIF/114-Audit&Assessment/Audit Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/ID Template.md",
+                "file": "100-Work/110-FuSa&SOTIF/114-Audit&Assessment/Audit Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/ID Template.md"
+                "file": "100-Work/110-FuSa&SOTIF/114-Audit&Assessment/Audit Template.md"
               }
             }
           },
@@ -142,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,24 +162,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc2d26723eca82",
+  "active": "e09c422819243bda",
   "lastOpenFiles": [
-    "100-Work/120-SOTIF/122-Analysis Method/01-STPA/STPA_Handbook_English.pdf",
-    "100-Work/120-SOTIF/122-Analysis Method/01-STPA/STPA_Handbook_English.pdf.crdownload",
-    "100-Work/120-SOTIF/122-Analysis Method/01-STPA/STPA_Handbook_Chinese.pdf",
-    "100-Work/120-SOTIF/122-Analysis Method/01-STPA/STPA_Handbook_Chinese.pdf.crdownload",
-    "100-Work/120-SOTIF/122-Analysis Method/01-STPA",
-    "100-Work/120-SOTIF/122-Analysis Method",
-    "100-Work/110-FuSa/114-Analysis Method",
-    "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/Functional Safety Concept Template.md",
-    "100-Work/120-SOTIF/121-Regulation/道路车辆 预期功能安全 征求意见稿-2022.pdf",
-    "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 4-产品开发-系统层面.pdf",
-    "100-Work/110-FuSa/113-Template&Guideline/P3-Concept phase/ID Template.md",
-    "100-Work/120-SOTIF/121-Regulation/道路车辆 预期功能安全 征求意见稿 2022.pdf",
-    "100-Work/110-FuSa/111-Regulation/002-GB 34590-2018/Part 3-概念阶段.pdf",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/01-FuSa/P3-Concept phase/ID Template.md",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/01-FuSa/P3-Concept phase",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/01-FuSa",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/新建文件夹",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021/附录D  整车灯光性能试验方法.pdf",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021/附录B  行人保护试验方法.pdf",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021/C-NCAP管理规则（2021版 修订版）.pdf",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021/附录C  主动安全ADAS试验方法.pdf",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021/附录A  碰撞试验、儿童保护静态评价及鞭打试验方法.pdf",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP/001-C-NCAP-2021",
+    "100-Work/110-FuSa&SOTIF/111-Regulation/04-NCAP",
+    "100-Work/110-FuSa&SOTIF/114-Audit&Assessment/Audit Template.md",
+    "100-Work/110-FuSa/112-Audit&Assessment/Audit&Assessmen Template.md",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/P3-Concept phase/Functional Safety Concept Template.md",
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/P3-Concept phase/ID Template.md",
     "100-Work/120-SOTIF/121-Regulation/test.md",
     "README.md",
-    "100-Work/110-FuSa/112-Audit&Assessment/Audit&Assessmen Template.md",
     "100-Work/110-FuSa/111-Regulation/003-C-NCAP-2021/C-NCAP管理规则.md",
     "2023-02-16.md",
     "未命名.canvas"

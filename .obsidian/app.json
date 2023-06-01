@@ -4,5 +4,8 @@
   "showLineNumber": true,
   "newFileLocation": "current",
   "strictLineBreaks": true,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "spellcheckLanguages": null
 }
