@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "./attachments",
   "showLineNumber": true,
   "newFileLocation": "current",
@@ -7,5 +7,12 @@
   "livePreview": true,
   "readableLineLength": false,
   "spellcheck": false,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
