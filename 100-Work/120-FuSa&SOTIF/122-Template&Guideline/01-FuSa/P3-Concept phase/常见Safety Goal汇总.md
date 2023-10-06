@@ -91,3 +91,77 @@
     safety goal：应避免 ADS 功能运行过程中，丢失驾驶员 dms 监控功能   
     ASIL 等级：ASIL B   
     安全度量阈值：驾驶员图像识别准确率 TBD
+
+# VDC 产品
+## 厂商：华为
+1. 安全目标：避免非预期加速   
+    ASIL 等级：ASIL D
+2. 安全目标：避免非预期减速   
+    ASIL 等级：ASIL C
+3. 安全目标：避免非预期移动   
+    ASIL 等级：ASIL B
+4. 安全目标：避免非预期横摆   
+    ASIL 等级：ASIL C
+
+# VIU/BCM 产品
+## 厂商：华为
+1. 安全目标：避免安全气囊非预期打开   
+    ASIL 等级：ASIL D
+2. 安全目标：避免安全气囊无法打开   
+    ASIL 等级：ASIL A
+3. 安全目标：避免碰撞无法下高压   
+    ASIL 等级：ASIL A
+4. 安全目标：避免近光灯突然关闭   
+    ASIL 等级：ASIL B
+5. 安全目标：避免近光灯无法点亮   
+    ASIL 等级：ASIL A
+6. 安全目标：避免远光灯突然关闭   
+    ASIL 等级：ASIL A
+7. 安全目标：避免远关灯无法点亮   
+    ASIL 等级：ASIL A
+8. 安全目标：避免转向灯无法点亮   
+    ASIL 等级：ASIL B
+9. 安全目标：避免制动灯无法点亮   
+    ASIL 等级：ASIL B
+10. 安全目标：避免前雨刮无法工作   
+    ASIL 等级：ASIL B
+11. 安全目标：避免座椅非预期移动   
+    ASIL 等级：ASIL A
+12. 安全目标：避免门窗防夹失效   
+    ASIL 等级：ASIL A
+13. 安全目标：避免滑移门非预期打开   
+    ASIL 等级：ASIL B
+14. 安全目标：避免电动尾门非预期打开   
+    ASIL 等级：ASIL B
+15. 安全目标：避免 IG 非预期下电   
+    ASIL 等级：ASIL B
+
+# ISS 产品
+## 厂商：华为
+1. 安全目标：避免非预期转向   
+    ASIL 等级：ASIL D
+2. 安全目标：避免非预期过大助力   
+    ASIL 等级：ASIL C
+3. 安全目标：避免非预期过小助力   
+    ASIL 等级：ASIL A
+4. 安全目标：避免非预期转向锁死   
+    ASIL 等级：ASIL D
+5. 安全目标：避免非预期反向助力   
+    ASIL 等级：ASIL D
+6. 安全目标：避免非预期回正力矩过大   
+    ASIL 等级：ASIL D
+
+# IBS 产品
+## 华为
+1. 安全目标：避免非预期过低制动力   
+    ASIL 等级：ASIL D
+2. 安全目标：避免非预期过高制动力   
+    ASIL 等级：ASIL C
+3. 安全目标：避免非预期刹车灯失效   
+    ASIL 等级：ASIL B
+4. 安全目标：避免 EPB 非预期过高制动   
+    ASIL 等级：ASIL D
+5. 安全目标：避免 EPB 非预期过低驻车力   
+    ASIL 等级：ASIL C
+6. 安全目标：避免非预期 EPB 状态错误   
+    ASIL 等级：ASIL B

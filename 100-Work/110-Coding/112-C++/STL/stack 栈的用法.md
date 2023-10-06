@@ -1,7 +1,7 @@
 # stack 栈的用法
 1. Stack（栈）是一种先进后出的数据结构，也就是 LIFO（last in first out），最后加入栈的元素会被最先取出来，在栈的同一端进行数据的插入和取出，这一端叫做栈顶
 2. 使用栈需要包含头文件 `#include <stack>`
-3. stack 栈常用基本操作如下图：![stack基本操作](pic/stack基本操作.jpg)
+3. stack 栈常用基本操作如下图：![stack基本操作](stack基本操作.jpg)
 4. 构造函数
     默认构造函数为 `template <class T, class Container = deque<T> > class stack`，其中包含2个参数，第1个参数是存储对象的类型，例如建立 int 类型的栈，则第1个参数设置为 int，第2个参数是底层容器的类型，stack 默认的底层容器是 deque 双边队列容器，也可换为其他类型的底层容器，只要他们支持 back ()、push_back ()、pop_back ()、empty ()、size ()等操作
 	- 创建空的 stask 对象

@@ -1,7 +1,7 @@
 # queue 的用法
 1. queue（队列）是一种先进先出 FIFO (first in first out)的数据结构，queue 是单边队列，只能在容器的末尾添加新元素，只能从头部移除元素，是一个典型的数据缓冲构造
 2. 使用 queue 需要包含头文件 `#include <queue>`
-3. queue 常见操作如下图：![queue 基本操作](pic/queue基本操作.jpg)
+3. queue 常见操作如下图：![queue 基本操作](queue基本操作.jpg)
 4. 构造函数
     默认构造函数为 `template <class T, class Container = deque<T> > class queue`，其中包含2个参数，第1个参数是存储对象的类型，例如建立 int 类型的栈，则第1个参数设置为 int，第2个参数是底层容器的类型，queue 默认的底层容器是 deque 双边队列容器，也可替换为其他类型的容器
 	- 创建空的 squeue 对象
