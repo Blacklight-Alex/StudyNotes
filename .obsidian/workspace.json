@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa54a17cdaa4668b",
+        "id": "77940f612c6de903",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8c331de895d951",
+            "id": "5e18cd75938fe30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
+                "file": "100-Work/110-Coding/112-C++/STL/queue用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
+                "file": "100-Work/110-Coding/112-C++/STL/queue用法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
+                "file": "100-Work/110-Coding/112-C++/STL/queue用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md"
+                "file": "100-Work/110-Coding/112-C++/STL/queue用法.md"
               }
             }
           },
@@ -162,10 +162,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd8c331de895d951",
+  "active": "5e18cd75938fe30b",
   "lastOpenFiles": [
-    "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/ID Template.md",
+    "100-Work/110-Coding/112-C++/STL/set用法.md",
+    "100-Work/110-Coding/112-C++/STL/queue用法.md",
+    "100-Work/120-FuSa&SOTIF/121-Regulation/02-GB 34590-2018/Part 9-以汽车安全完整性等级为导向和安全为导向的分析.pdf",
     "100-Work/120-FuSa&SOTIF/124-Analysis Method/02-FMEA/FMEA步骤.md",
+    "000-Inbox/020-Work/022-人人都懂ADS/智能驾驶系统概览.md",
+    "000-Inbox/020-Work/022-人人都懂ADS/智能驾驶规划和控制综述.md",
+    "000-Inbox/020-Work/022-人人都懂ADS/自动驾驶控制系统方案介绍.md",
+    "000-Inbox/020-Work/022-人人都懂ADS/attachments/VLC控制架构.png.crswap",
+    "000-Inbox/020-Work/022-人人都懂ADS/attachments/规控模块架构.png.crswap",
+    "000-Inbox/020-Work/022-人人都懂ADS/attachments/VLC控制架构.png",
+    "000-Inbox/020-Work/022-人人都懂ADS/attachments/规控模块架构.png",
+    "000-Inbox/020-Work/022-人人都懂ADS/attachments",
+    "000-Inbox/020-Work/022-人人都懂ADS/新建文件夹",
+    "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
+    "000-Inbox/020-Work/022-人人都懂ADS",
+    "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/ID Template.md",
     "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/常见Safety Goal汇总.md",
     "未命名.canvas",
     "100-Work/120-FuSa&SOTIF/121-Regulation/01-ISO26262-2018/ISO-26262-4-2018（en）.pdf",
@@ -175,24 +189,15 @@
     "100-Work/110-Coding/112-C++/STL/map用法.md",
     "100-Work/110-Coding/112-C++/STL/string用法.md",
     "100-Work/110-Coding/112-C++/STL/stack 栈的用法.md",
-    "100-Work/110-Coding/112-C++/STL/set用法.md",
     "100-Work/110-Coding/112-C++/STL/attachments/Pasted image 20230913003154.png",
     "100-Work/110-Coding/112-C++/STL/attachments",
     "100-Work/120-FuSa&SOTIF/123-tutorial/02-SOTIF",
-    "100-Work/120-FuSa&SOTIF/123-tutorial/01-FuSa",
-    "100-Work/120-FuSa&SOTIF/123-tutorial/01-FuSa/汽车电子功能安全实战应用.pdf",
-    "100-Work/120-FuSa&SOTIF/123-tutorial",
-    "100-Work/120-FuSa&SOTIF/124-Analysis Method/02-FMEA",
-    "100-Work/120-FuSa&SOTIF/123-Analysis Method/01-STPA/未命名",
-    "100-Work/120-FuSa&SOTIF/121-Regulation/06-GBT 20438-2017/GB_T 20438.7-2017 电子安全相关系统的功能安全 第7部分：技术和措施概述.pdf",
     "100-Work/110-Coding/111-problems/1-两数之和.md",
-    "100-Work/110-Coding/112-C++/STL/queue用法.md",
     "100-Work/110-Coding/112-C++/STL/attachments/queue基本操作.jpg",
     "100-Work/110-Coding/112-C++/STL/attachments/stack基本操作.jpg",
     "100-Work/110-Coding/112-C++/STL/stack基本操作.jpg",
     "100-Work/110-Coding/112-C++/STL/list 用法.md",
     "100-Work/110-Coding/112-C++/STL/deque用法.md",
-    "100-Work/120-FuSa&SOTIF/122-Template&Guideline/01-FuSa/P3-Concept phase/Functional Safety Concept Template.md",
     "100-Work/120-FuSa&SOTIF/125-Audit&Assessment/Audit Template.md",
     "100-Work/110-Coding/112-C++/STL/C++ 链表.md",
     "100-Work/110-Coding/112-C++/map容器用法.md",
@@ -200,9 +205,6 @@
     "000-Inbox/020-Work/021-传感器/Lidar & Radar & Camera 环境条件影响.md",
     "README.md",
     "100-Work/110-FuSa/112-Audit&Assessment/Audit&Assessmen Template.md",
-    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/P3-Concept phase/Functional Safety Concept Template.md",
-    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/P3-Concept phase/ID Template.md",
-    "100-Work/120-SOTIF/121-Regulation/test.md",
-    "100-Work/110-FuSa/111-Regulation/003-C-NCAP-2021/C-NCAP管理规则.md"
+    "100-Work/110-FuSa&SOTIF/112-Template&Guideline/P3-Concept phase/Functional Safety Concept Template.md"
   ]
 }
